@@ -4,4 +4,4 @@ meta:
     name: pip
 
 run:
-  scriptName: uwsgi.ini
+  scriptName: run.py
