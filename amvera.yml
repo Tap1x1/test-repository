@@ -1,5 +1,5 @@
 meta:
-  environment: python
+  environment: uwsgi
   toolchain:
     name: pip
 
